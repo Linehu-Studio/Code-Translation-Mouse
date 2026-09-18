@@ -1,0 +1,17 @@
+/build/
+/bin/
+/out/
+/cmake-build-*/
+/.claude/
+/.vs/
+/.idea/
+*.o
+*.obj
+*.res
+*.exe
+*.pdb
+*.ilk
+*.user
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
